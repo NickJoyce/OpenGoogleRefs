@@ -6,6 +6,7 @@ import webbrowser
 import requests
 from bs4 import BeautifulSoup
 
+
 query = 'Театры москвы'
 num_open = 5
 
